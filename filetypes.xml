@@ -1,0 +1,21 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="*ockerfile*" type="Dockerfile" />
+      <removed_mapping ext="dockerfile" approved="true" type="Dockerfile" />
+      <mapping pattern="*jenkins*" type="Groovy" />
+      <mapping pattern="*Jenkins*" type="Groovy" />
+      <mapping pattern="casc" type="PLAIN_TEXT" />
+      <mapping pattern=".mtdevops" type="PLAIN_TEXT" />
+      <mapping pattern="asas" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping pattern="asdasdasd" type="XHTML" />
+      <removed_mapping pattern="jenkinsfile-distribution" approved="true" type="Groovy" />
+      <removed_mapping pattern="Jenkins-tint" approved="true" type="Groovy" />
+      <removed_mapping pattern="*Jenkinsfile*" approved="true" type="Groovy" />
+      <removed_mapping pattern="Jenkins-deploy" approved="true" type="Groovy" />
+      <removed_mapping ext="dockerfile" approved="true" type="Dockerfile" />
+      <removed_mapping pattern="*jenkinsfile*" approved="true" type="Groovy" />
+    </extensionMap>
+  </component>
+</application>
