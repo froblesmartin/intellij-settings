@@ -8,6 +8,7 @@
       <mapping pattern="casc" type="PLAIN_TEXT" />
       <mapping pattern=".mtdevops" type="PLAIN_TEXT" />
       <mapping pattern="asas" type="PLAIN_TEXT" />
+      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping pattern="asdasdasd" type="XHTML" />
       <removed_mapping pattern="jenkinsfile-distribution" approved="true" type="Groovy" />
